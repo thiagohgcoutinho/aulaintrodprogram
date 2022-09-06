@@ -1,0 +1,6 @@
+t = str(" Aula 05 - Exercício 05 ")
+print(f"{t:=^40}")
+print(4 + 4)
+print(2 * 4)
+print(10 - 2)
+print(16 / 2)

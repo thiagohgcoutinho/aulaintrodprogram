@@ -1,3 +1,5 @@
+t = str(" Aula 08 - Exemplo 01 ")
+print(f"{t:=^40}")
 cadastro = []
 
 botao = 1000

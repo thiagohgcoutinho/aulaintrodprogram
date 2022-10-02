@@ -1,4 +1,5 @@
 #Atividade Avaliativa
+
 # Questão 1
 t = str(" Aula 08 - Exercício 01 ")
 print(f"{t:=^40}")
@@ -88,7 +89,7 @@ grupo4 = []
 num = 100
 while num >= 0:
     print("Digite um número negativo para encerrar!")
-    num = float(input("Digite um número para lista entre 0 e 100: "))
+    num = float(input("Digite um número para a sua lista entre 0 e 100: "))
     if 0 <= num <= 100:
         if 0 <= num <= 25:
             grupo1.append(num)
